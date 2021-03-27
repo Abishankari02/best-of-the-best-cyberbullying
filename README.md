@@ -1,8 +1,38 @@
 # Cyberbulling-on-Twitter
-Goal: Using Python to detect cyber-bullying on Twitter based on categories and kinds of language used with at-risk tweets
+## Goal:
+Cyber bullying is a serious issue unlike any form of bullying ,it can have long term effects on victim
+The research we had collected had made us think about ways to stop cyber bullying,so we have developed the project using machine learning that would detect cyber-bullying on Twitter based on categories and kinds of language used with at-risk tweets
+We hope this would help to reduce the effect of cyber bullying
+
+## Features :
+- NLU machine learnig algorithm
+-
+- NLP Machine learning algorithm
+    - SVM (Support Vector Machine) Algorithm
+    - Sentimmental Analysis
+    - Tokenization
+    - Part Of Speech Tagging
+    - Named entity recognition
+    - Categorization and Classification
+    - Clustering
+
+## Installation :
+- Install Tweepy
+     - pip install tweepy
+- Install TextBlob 
+     - pip install -U textblob
+- Additional dependencies
+     - python -m textblob.download_corpora
+
+## Technologies used: 
+- Machine Learning
+     - NLU Machine Learning
+- Python
+- Tweepy
+- Textblob
+- Pandas
 
 ## Data source:
-
 Twitter API 
 
 ## Main libraries used:
@@ -13,26 +43,13 @@ Bullying:
 1 = Bullying
 0 = Non-Bullying
 
-## Categories/types of bullying used to retrieve and evaluated with tweets (labels not included in published csv of dataset):
-
-*Based on past literature and research regarding cyberbullying detection*, keyword search of
-
+## Categories/types of bullying used to retrieve and evaluated with tweets :
 - Physical Appearance
-
 - Sexuality
-
 - Race
-
 - Culture
-
 - Political-oriented
-
 - Intelligence 
-
 - Curse Words
-
 - "Mean Words" (idiot, loser etc.) 
 
-## Algorithms used: 
-
-Naive Bayes, Support Vector Machine
