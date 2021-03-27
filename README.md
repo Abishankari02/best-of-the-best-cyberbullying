@@ -1,8 +1,6 @@
 # Cyberbulling-on-Twitter
 ## Goal:
-Cyber bullying is a serious issue unlike any form of bullying ,it can have long term effects on victim.
-The research we had collected had made us think about ways to stop cyber bullying,so we have developed the project using machine learning that would detect cyber-bullying on Twitter based on categories and kinds of language used with at-risk tweets.
-We hope this would help to reduce the effect of cyber bullying.
+Cyber Bullying is a growing concern for social gaming and dating platforms looking to create a safe space for their users but cyber bullying identification and prevention is complex as it involves rapidly changing tactics.The research we had collected had made us think about ways to stop cyber bullying,so we have developed the project using machine learning that would detect cyber-bullying on Twitter based on categories and kinds of language used at-risk tweets.We hope this would help to reduce the effect of cyber bullying.
 
 ## Features :
 - NLU machine learnig algorithm
