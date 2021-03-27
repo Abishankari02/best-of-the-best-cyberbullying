@@ -6,15 +6,17 @@ We hope this would help to reduce the effect of cyber bullying
 
 ## Features :
 - NLU machine learnig algorithm
--
+     - Sentiment Analysis
+     - Social Media Analytics
 - NLP Machine learning algorithm
     - SVM (Support Vector Machine) Algorithm
-    - Sentimmental Analysis
+    - Lemmatization
     - Tokenization
+    - Parsing
+    - Word Segmentation
     - Part Of Speech Tagging
     - Named entity recognition
     - Categorization and Classification
-    - Clustering
 
 ## Installation :
 - Install Tweepy
@@ -36,12 +38,10 @@ We hope this would help to reduce the effect of cyber bullying
 Twitter API 
 
 ## Main libraries used:
-Python-Twitter, NLTK, Pandas
+- Python-Twitter
+- NLTK
+- Pandas
 
-Bullying:  
-
-1 = Bullying
-0 = Non-Bullying
 
 ## Categories/types of bullying used to retrieve and evaluated with tweets :
 - Physical Appearance
